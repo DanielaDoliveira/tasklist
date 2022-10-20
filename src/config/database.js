@@ -1,6 +1,5 @@
  
  module.exports ={
-
   dialect: 'postgres',
   host: 'localhost',
   username: 'postgres',
@@ -10,5 +9,5 @@
     timestamps: true,
     underscored:true,
     underscoredAll:true,
-  },
- }
+  }
+ };
