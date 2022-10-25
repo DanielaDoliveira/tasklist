@@ -10,7 +10,8 @@
     "js": "^0.1.0",
     "jsonwebtoken": "^8.5.1",
     "pg": "^8.8.0",
-    "pg-hstore": "^2.3.4"
+    "pg-hstore": "^2.3.4",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "eslint": "^7.32.0 || ^8.2.0",
